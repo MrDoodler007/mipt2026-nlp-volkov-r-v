@@ -1,0 +1,54 @@
+TECHNICAL SCIENCES
+
+UDC 004.021
+
+Akzholov R.K.
+
+3rd year student of the ASU Faculty of Mathematics and Information Technology, Department of Information Technology.
+Astrakhan State University (Astrakhan, Russia)
+
+MACHINE LEARNING
+
+Abstract: the article analyzes machine learning methods.
+Several methods are considered, examples of learning algorithms with and without a teacher are given, and the fields of application are described.
+Keywords: machine learning, neural networks, clustering, regression, classification, algorithm, data.
+Machine learning is a category of algorithms that allows software applications to be more accurate in predicting results without explicit programming.
+The basic premise of machine learning is to create algorithms that can take inputs and use statistical analysis to predict outputs as new data becomes available.
+The processes involved in machine learning are similar to those of data mining and predictive modeling.
+Both require data retrieval to find patterns and adjust the program's actions accordingly.
+Many people are familiar with machine learning from online stores and the advertising they generate.
+This is because recommendation systems use machine learning to personalize the delivery of online ads in near real time.
+In addition to personalized marketing, other common uses of machine learning include fraud detection, spam filtering, network security threat detection, preventive maintenance, and news feed creation.
+How does machine learning work?
+Machine learning algorithms are classified into learning with and without a teacher.
+Teaching with a teacher requires a data scientist with machine learning skills to provide both input and desired output, in addition to providing feedback on the accuracy of predictions during algorithm training.
+Data scientists determine which variables or characteristics the model should analyze and use to develop forecasts.
+After completing the training, the algorithm will apply the acquired data to the new data.
+Examples of teaching methods with a teacher are classification and regression.
+Classification is the most popular machine learning task.
+The purpose of this method is to classify objects according to a previously known feature, for example, documents by language, music by genre, etc.
+The "Naive Bayes" algorithm is a classic example of classification.
+It used to be used in spam filters, but now it's being handled by decision trees.
+Another example of classification is the support vector method, which is the most popular classification method.
+Previously, they classified everything: plant species, human faces in photographs, documents by topic.
+Regression is used in tasks when it is necessary to predict the outcome.
+Regression is defined as an equation that describes a function that shows the relationship between input and output data.
+This machine learning method is used in: predicting the value of securities, medical diagnoses, etc.
+Popular regression algorithms are linear, polynomial, logistic, etc.
+Unsupervised learning methods do not require ready-made answers and are used to find dependencies between objects.
+These methods include clustering, dimensionality reduction, and neural networks.
+Clustering is a machine learning method in which objects are separated by an unknown feature, while the algorithm itself identifies these features.
+Today, this method has found its application in such tasks as image compression, combining close points on a map, etc.
+The most popular algorithms are the K-means method and DBSCAN.
+The dimensionality reduction method is used to collect features in a higher-level abstraction.
+For example, in some studies, it is often necessary to visualize data for convenient study and analysis.
+Thus, algebraic functions can be represented as graphs of functions, statistical samples can be represented as scatter plots.
+Difficulties arise when it is necessary to visualize multidimensional data, when each object has many features.
+Graphically, such objects are represented as a point in a multidimensional space.
+It is convenient for a person to analyze the data displayed on the plane, therefore, dimensionality reduction algorithms are used.
+Examples of such algorithms are: principal component method, singular value decomposition, T-SNE algorithm.
+Today, these algorithms are used in recommendation systems, thematic modeling, etc.
+Neural networks are used for more complex processing tasks than supervised learning systems, including image recognition, speech-to-text conversion, and natural language creation.
+These neural networks work by combining millions of training data examples and automatically identifying subtle correlations between many variables.
+After training, the algorithm can use its bank of associations to interpret the new data.
+These algorithms have only become possible in the era of big data, as they require huge amounts of training data.
